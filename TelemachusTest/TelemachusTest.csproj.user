@@ -16,4 +16,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartArguments>WebSocketServiceSubscriptionAndStream</StartArguments>
   </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>D:\Spiele\Steam\SteamApps\common\Kerbal Space Program\KSP_Data\Managed\</ReferencePath>
+  </PropertyGroup>
 </Project>
